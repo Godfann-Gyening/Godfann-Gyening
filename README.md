@@ -11,13 +11,11 @@
 
 ## 🔥 Active Projects (Security Engineering Path)
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **🛡️ Virtual Security Lab** | Automated vulnerable environment for penetration testing practice | VMware, Kali Linux, Metasploit | ![50%](https://progress-bar.dev/50) |
-| **📡 SIEM Implementation** | Custom security event monitoring with ELK Stack | Elasticsearch, Logstash, Kibana | ![30%](https://progress-bar.dev/30) |
-| **🍯 Honeypot Deployment** | Low-interaction honeypot to collect attack patterns | T-Pot, Docker, Python | ![20%](https://progress-bar.dev/20) |
-| **🧪 Malware Analysis Lab** | Automated sandbox for suspicious file analysis | Cuckoo Sandbox, YARA, Python | ![10%](https://progress-bar.dev/10) |
-| **🎯 CTF Challenge Suite** | Web-based vulnerable machines for training | Docker, Flask, JavaScript | ![15%](https://progress-bar.dev/15) |
+| Project | Description | Tech Stack | Status | Repo |
+|---------|-------------|------------|--------|------|
+| **🌐 Enterprise Network Fortification** | Cisco-secured network with Zero Trust principles | Cisco PT, Wireshark, ACLs | ![80%](https://progress-bar.dev/80) | [View](https://github.com/yourusername/enterprise-network-lab) |
+| **🛡️ Virtual Security Lab** | Automated pentesting environment | Kali, Metasploit | ![50%](https://progress-bar.dev/50) | [View](#) |
+| **📡 SIEM Implementation** | Threat detection system | ELK Stack | ![30%](https://progress-bar.dev/30) | [View](#) |
 
 ---
 
