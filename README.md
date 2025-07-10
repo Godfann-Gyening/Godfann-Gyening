@@ -39,9 +39,9 @@
 ---
 
 ## 📚 Certifications & Achievements
+- [x] **Cisco Networking Academy** - Packet Tracer Security Lab (2024)
 - [ ] eJPT (In Progress)
 - [ ] TryHackMe Top 10% (Achieved)
-- [ ] HackTheBox Starting Point (Completed)
 
 ---
 
