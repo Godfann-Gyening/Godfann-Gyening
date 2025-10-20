@@ -1,59 +1,64 @@
-# 👨🏾‍💻 Godfann Gyening | Cybersecurity Researcher
+### Hi there 👋 I'm Godfann Gyening!
 
-🎓 BSc (Hons) Cyber Security @ University of Kent  
-🔐 Offensive Security Enthusiast | CTF Player | Security Tool Developer
+A motivated Computer Science (Cyber Security) undergraduate at the University of Kent, passionate about building secure, robust, and scalable systems. My academic journey and hands-on projects have equipped me with a strong foundation in backend development, database management, and secure coding practices.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/yourusername)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9cf?style=flat&logo=hackthebox)](https://app.hackthebox.com/profile/yourid)
+I'm actively seeking Industrial Placement opportunities in Cyber Security, eager to apply my skills in risk analysis, secure system design, and incident response within real-world environments.
 
 ---
 
-## 🔥 Active Projects (Security Engineering Path)
+### 🎓 Education
 
-| Project | Description | Tech Stack | Status | Repo |
-|---------|-------------|------------|--------|------|
-| **🌐 Enterprise Network Fortification** | Cisco-secured network with Zero Trust principles | Cisco PT, Wireshark, ACLs | ![80%](https://progress-bar.dev/80) | [View](https://github.com/yourusername/enterprise-network-lab) |
-| **🛡️ Virtual Security Lab** | Automated pentesting environment | Kali, Metasploit | ![50%](https://progress-bar.dev/50) | [View](#) |
-| **📡 SIEM Implementation** | Threat detection system | ELK Stack | ![30%](https://progress-bar.dev/30) | [View](#) |
+**BSc (Hons) Computer Science (Cyber Security) with Year in Industry**  
+University of Kent | 2024 – 2028 (Penultimate Year)
 
 ---
 
-## ⚙️ Core Competencies
+### 💻 Technical Skills
 
-**Offensive Security**  
-![Metasploit](https://img.shields.io/badge/Metasploit-critical?style=flat&logo=metasploit)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite)
-![Nmap](https://img.shields.io/badge/Nmap-black?style=flat&logo=nmap)
-
-**Defensive Security**  
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk)
-![Snort](https://img.shields.io/badge/Snort-EE2C2C?style=flat&logo=snort)
-![OSSEC](https://img.shields.io/badge/OSSEC-222222?style=flat)
-
-**Programming & Scripting**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell)
+*   **Languages:** Java, PHP, SQL, JavaScript, HTML, CSS
+*   **Databases:** MySQL, SQLite, Database Design, Query Optimization
+*   **Tools:** Git, VS Code, IntelliJ, JUnit, Linux, SSH/VPN
+*   **Concepts:** Object-Oriented Programming (OOP), Secure Coding Practices (e.g., parameterized queries, input validation), Data Structures (Binary Search Trees), Agile Development, Usability & Accessibility
 
 ---
 
-## 📚 Certifications & Achievements
-- [x] **Cisco Networking Academy** - Packet Tracer Security Lab (2024)
-- [ ] eJPT (In Progress)
-- [ ] TryHackMe Top 10% (Achieved)
+### 🚀 Featured Projects
+
+Here are some highlights of my work, demonstrating my commitment to secure and effective software development:
+
+*   **Secure Seminar Web App (PHP/MySQL):** Developed a database-driven web application with a strong focus on preventing SQL injection through parameterized queries and implementing robust server-side validation.
+*   **BST with Frequency Counts (Java):** Implemented a Binary Search Tree with custom node deletion logic and element frequency tracking, tested rigorously in a Linux command-line environment.
+*   **Hotel Booking Interface Prototype (UX/Figma):** Designed and user-tested a comprehensive booking system, focusing on intuitive user experience, error prevention, and accessibility.
 
 ---
 
-## 📝 Latest Blog Posts
-<!-- You can add actual blog posts later -->
-1. [Setting Up Your First Security Lab](https://yourblog.com/lab-setup)
-2. [Beginner's Guide to Wireshark Filters](https://yourblog.com/wireshark)
-3. [Why Every Developer Should Learn Basic Security](https://yourblog.com/dev-sec)
+### 🌱 What I'm Learning / Exploring
+
+*   Deepening my understanding of network security protocols and intrusion detection techniques.
+*   Exploring cloud security best practices (AWS).
+*   Practicing ethical hacking fundamentals and vulnerability assessment.
 
 ---
 
-## 📬 Contact
-- 📧 **Professional**: [godfann0@outlook.com](mailto:godfann0@outlook.com)
-- 🔒 **PGP**: [Download Public Key](https://link.to/pgpkey) (For sensitive communications)
-- 🌐 **Based in**: London, UK (Open to remote collaborations)
+### 🤝 Connect with me
+
+*   **Email:** godfann0@outlook.com
+*   **LinkedIn:** [Your LinkedIn Profile URL - *Add this manually if you have one!*]
+*   **Portfolio/Website:** [Your Portfolio/Website URL - *Add this manually if you have one!*]
+
+---
+
+<!--
+**Godfann-Gyening/Godfann-Gyening** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
